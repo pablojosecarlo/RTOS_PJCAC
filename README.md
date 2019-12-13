@@ -1,6 +1,10 @@
 # RTOS_PJCAC
 Trabajo Práctico de la materia RTOS 1 
 
+Link al video:
+https://photos.google.com/photo/AF1QipO916TqWInoyGqCs_naZS0z9TwQ1eBmq8-sPQiH
+
+
 El dispositivo es parte de un escáner magnético de superficies, que va relevando los valores del campo B a medida que se desplaza. Consiste en un encoder, un sensor magnético i2c y un display lcd i2c. El sensor no presentaba mayores dificultades pues tiene una interrupción que avisa cuando está disponible una nueva medición.  
 
 Originalmente el proyecto contaba con un encoder absoluto de 12 bits , pero eran demasiados pines para andar cableando y además la alimentacion era de 12 Volts.
